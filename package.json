@@ -1,5 +1,5 @@
 {
-  "name": "ng3-signalr402-demo-webui-ngcli",
+  "name": "ng2-signalr402-demo-webui-ngcli",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -22,7 +22,10 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
+    "jquery": "^3.2.1",
+    "ng2-signalr": "^2.1.0",
     "rxjs": "^5.1.0",
+    "signalr": "^2.2.2",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
